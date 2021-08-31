@@ -1,0 +1,8 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"https://www.instagram.com/mora.modaa/",
+	"twitterPage":"https://www.instagram.com/mora.modaa/",
+	"googlePage":"https://www.instagram.com/mora.modaa/",
+	"rateUs":"https://www.instagram.com/mora.modaa/",
+	"moreGames":"https://mora1.com",
+	"shareMessage":"I just scored $score at Mora Jump !"
+}}
